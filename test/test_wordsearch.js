@@ -47,7 +47,7 @@ describe("#wordSearch()", function() {
       ['U', 'B', 'T', 'W', 'A', 'D', 'A', 'I'],
       ['O', 'D', 'C', 'A', 'K', 'U', 'A', 'S'],
       ['E', 'Z', 'K', 'F', 'Q', 'U', 'A', 'L'],
-    ], 'SAEED')
+    ], 'SEAF')
   
     assert.isTrue(result);
   });
